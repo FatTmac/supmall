@@ -23,7 +23,7 @@
   height: 49px;
   line-height: 49px;
   text-align: center;
-  border-radius:0  0 10px  10px;
+  
 }
 .left , .right{
   width: 60px;
